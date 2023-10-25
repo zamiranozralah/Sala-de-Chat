@@ -1,0 +1,28 @@
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\bin\Debug\net6.0\Cliente 2 (Sala de Chat).exe
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\bin\Debug\net6.0\Cliente 2 (Sala de Chat).deps.json
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\bin\Debug\net6.0\Cliente 2 (Sala de Chat).runtimeconfig.json
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\bin\Debug\net6.0\Cliente 2 (Sala de Chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\bin\Debug\net6.0\Cliente 2 (Sala de Chat).pdb
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).AssemblyInfoInputs.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).AssemblyInfo.cs
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).csproj.CoreCompileInputs.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\refint\Cliente 2 (Sala de Chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).pdb
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).genruntimeconfig.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\ref\Cliente 2 (Sala de Chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\bin\Debug\net6.0\Cliente 2 (Sala de Chat).exe
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\bin\Debug\net6.0\Cliente 2 (Sala de Chat).deps.json
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\bin\Debug\net6.0\Cliente 2 (Sala de Chat).runtimeconfig.json
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\bin\Debug\net6.0\Cliente 2 (Sala de Chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\bin\Debug\net6.0\Cliente 2 (Sala de Chat).pdb
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).AssemblyInfoInputs.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).AssemblyInfo.cs
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).csproj.CoreCompileInputs.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\refint\Cliente 2 (Sala de Chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).pdb
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\Cliente 2 (Sala de Chat).genruntimeconfig.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Cliente 2 (Sala de Chat)\Cliente 2 (Sala de Chat)\obj\Debug\net6.0\ref\Cliente 2 (Sala de Chat).dll

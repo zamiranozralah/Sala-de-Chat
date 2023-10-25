@@ -1,0 +1,42 @@
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).exe
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).deps.json
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).runtimeconfig.json
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).dll
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).pdb
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).AssemblyInfoInputs.cache
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).AssemblyInfo.cs
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).csproj.CoreCompileInputs.cache
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).dll
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\refint\Servidor (Sala de chat).dll
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).pdb
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).genruntimeconfig.cache
+C:\Users\Calasanz\source\repos\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\ref\Servidor (Sala de chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).exe
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).deps.json
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).runtimeconfig.json
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).pdb
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).AssemblyInfoInputs.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).AssemblyInfo.cs
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).csproj.CoreCompileInputs.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\refint\Servidor (Sala de chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).pdb
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).genruntimeconfig.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\ref\Servidor (Sala de chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).exe
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).deps.json
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).runtimeconfig.json
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\bin\Debug\net6.0\Servidor (Sala de chat).pdb
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).AssemblyInfoInputs.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).AssemblyInfo.cs
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).csproj.CoreCompileInputs.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\refint\Servidor (Sala de chat).dll
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).pdb
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\Servidor (Sala de chat).genruntimeconfig.cache
+C:\Users\Calasanz\OneDrive\Escritorio\Sala de Chat\Servidor (Sala de chat)\Servidor (Sala de chat)\obj\Debug\net6.0\ref\Servidor (Sala de chat).dll
