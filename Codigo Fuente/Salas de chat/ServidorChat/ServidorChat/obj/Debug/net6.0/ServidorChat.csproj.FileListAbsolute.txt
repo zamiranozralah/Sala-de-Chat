@@ -1,0 +1,15 @@
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\bin\Debug\net6.0\ServidorChat.exe
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\bin\Debug\net6.0\ServidorChat.deps.json
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\bin\Debug\net6.0\ServidorChat.runtimeconfig.json
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\bin\Debug\net6.0\ServidorChat.dll
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\bin\Debug\net6.0\ServidorChat.pdb
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\obj\Debug\net6.0\ServidorChat.csproj.AssemblyReference.cache
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\obj\Debug\net6.0\ServidorChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\obj\Debug\net6.0\ServidorChat.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\obj\Debug\net6.0\ServidorChat.AssemblyInfo.cs
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\obj\Debug\net6.0\ServidorChat.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\obj\Debug\net6.0\ServidorChat.dll
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\obj\Debug\net6.0\refint\ServidorChat.dll
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\obj\Debug\net6.0\ServidorChat.pdb
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\obj\Debug\net6.0\ServidorChat.genruntimeconfig.cache
+C:\Users\alexc\source\repos\ServidorChat\ServidorChat\obj\Debug\net6.0\ref\ServidorChat.dll
